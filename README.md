@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrishaMusicMan
 - 👀 I’m interested in grow up in program development 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on somebody
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to program expirience in team
 - 📫 How to reach me technogarden.by@gmail.com
 
 <!---
